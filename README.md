@@ -44,8 +44,9 @@ https://github.com/kampachi0096/p2hacks2024
 swift
 
 利用したフレームワーク・ライブラリ  
-AVFoundation
-Vision
+SwiftUI  
+AVFoundation  
+Vision  
 
 その他開発に使用したツール・サービス
 
