@@ -44,5 +44,4 @@ Vision
 
 その他開発に使用したツール・サービス  
 Canba  
-figma  
-Xcode  
+figma   
